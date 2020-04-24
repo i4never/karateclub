@@ -23,6 +23,7 @@ setup(
           "gensim",
           "pandas",
           "six",
+          "toolz",
       ],
   classifiers=[
     "Development Status :: 3 - Alpha",
